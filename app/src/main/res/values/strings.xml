@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tablet</string>
+    <string name="ima">dia</string>
+    <string name="txt">Estamos en una tableta</string>
+    <string name="btn">Precione Aqui</string>
+    <string name="btr1">Pantalla de Celurar</string>
+    <string name="btr">Presione aqui</string>
+    <string name="btr4">Presione Aqui</string>
+</resources>
